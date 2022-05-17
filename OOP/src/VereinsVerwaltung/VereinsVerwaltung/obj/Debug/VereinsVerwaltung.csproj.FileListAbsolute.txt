@@ -1,0 +1,8 @@
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\bin\Debug\VereinsVerwaltung.exe.config
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\bin\Debug\VereinsVerwaltung.exe
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\bin\Debug\VereinsVerwaltung.pdb
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\obj\Debug\VereinsVerwaltung.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\obj\Debug\VereinsVerwaltung.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\obj\Debug\VereinsVerwaltung.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\obj\Debug\VereinsVerwaltung.exe
+D:\Users\Tim\Desktop\OOP\src\VereinsVerwaltung\VereinsVerwaltung\obj\Debug\VereinsVerwaltung.pdb

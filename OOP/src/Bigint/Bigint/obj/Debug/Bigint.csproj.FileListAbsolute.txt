@@ -1,0 +1,8 @@
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\bin\Debug\Bigint.exe.config
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\bin\Debug\Bigint.exe
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\bin\Debug\Bigint.pdb
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\obj\Debug\Bigint.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\obj\Debug\Bigint.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\obj\Debug\Bigint.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\obj\Debug\Bigint.exe
+D:\Users\Tim\Desktop\OOP\src\Bigint\Bigint\obj\Debug\Bigint.pdb

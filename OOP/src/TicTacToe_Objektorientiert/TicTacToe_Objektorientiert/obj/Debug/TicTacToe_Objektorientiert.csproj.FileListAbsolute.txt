@@ -1,0 +1,8 @@
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\bin\Debug\TicTacToe_Objektorientiert.exe.config
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\bin\Debug\TicTacToe_Objektorientiert.exe
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\bin\Debug\TicTacToe_Objektorientiert.pdb
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\obj\Debug\TicTacToe_Objektorientiert.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\obj\Debug\TicTacToe_Objektorientiert.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\obj\Debug\TicTacToe_Objektorientiert.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\obj\Debug\TicTacToe_Objektorientiert.exe
+D:\Users\Tim\Desktop\OOP\src\TicTacToe_Objektorientiert\TicTacToe_Objektorientiert\obj\Debug\TicTacToe_Objektorientiert.pdb

@@ -1,0 +1,8 @@
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\bin\Debug\Bruch.exe.config
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\bin\Debug\Bruch.exe
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\bin\Debug\Bruch.pdb
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\obj\Debug\Bruch.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\obj\Debug\Bruch.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\obj\Debug\Bruch.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\obj\Debug\Bruch.exe
+D:\Users\Tim\Desktop\OOP\src\Bruch\Bruch\obj\Debug\Bruch.pdb

@@ -1,0 +1,8 @@
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\bin\Debug\Mitfahrzentrale.exe.config
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\bin\Debug\Mitfahrzentrale.exe
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\bin\Debug\Mitfahrzentrale.pdb
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\obj\Debug\Mitfahrzentrale.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\obj\Debug\Mitfahrzentrale.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\obj\Debug\Mitfahrzentrale.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\obj\Debug\Mitfahrzentrale.exe
+D:\Users\Tim\Desktop\OOP\src\Mitfahrzentrale\Mitfahrzentrale\obj\Debug\Mitfahrzentrale.pdb

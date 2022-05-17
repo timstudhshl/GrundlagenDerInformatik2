@@ -1,0 +1,8 @@
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\bin\Debug\Rechteck.exe.config
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\bin\Debug\Rechteck.exe
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\bin\Debug\Rechteck.pdb
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\obj\Debug\Rechteck.csproj.AssemblyReference.cache
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\obj\Debug\Rechteck.csproj.SuggestedBindingRedirects.cache
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\obj\Debug\Rechteck.csproj.CoreCompileInputs.cache
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\obj\Debug\Rechteck.exe
+D:\Users\Tim\Desktop\OOP\src\Rechteck\Rechteck\obj\Debug\Rechteck.pdb
