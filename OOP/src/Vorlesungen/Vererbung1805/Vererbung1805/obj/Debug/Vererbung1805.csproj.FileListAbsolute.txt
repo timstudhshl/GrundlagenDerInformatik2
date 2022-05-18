@@ -1,0 +1,8 @@
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\bin\Debug\Vererbung1805.exe.config
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\bin\Debug\Vererbung1805.exe
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\bin\Debug\Vererbung1805.pdb
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\obj\Debug\Vererbung1805.csproj.AssemblyReference.cache
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\obj\Debug\Vererbung1805.csproj.SuggestedBindingRedirects.cache
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\obj\Debug\Vererbung1805.csproj.CoreCompileInputs.cache
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\obj\Debug\Vererbung1805.exe
+C:\Users\0815c\Desktop\GitHub\Studium\GrundlagenDerInformatik2\OOP\src\Vorlesungen\Vererbung1805\Vererbung1805\obj\Debug\Vererbung1805.pdb
